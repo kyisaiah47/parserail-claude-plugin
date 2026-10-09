@@ -7,9 +7,9 @@
       "kind": "price",
       "sourceUrl": "https://parserail.thecompound.tech/docs/credits",
       "sourceTitle": "ParseRail — Credits & pricing",
-      "asOf": "2026-09-30",
+      "asOf": "2026-10-09",
       "appearsOn": ["README.md", "skills/parserail-api/SKILL.md", "skills/extract-financial-doc/SKILL.md", "skills/redact-pii/SKILL.md"],
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-09",
       "status": "verified"
     },
     {
@@ -19,9 +19,9 @@
       "kind": "billing-rule",
       "sourceUrl": "https://parserail.thecompound.tech/docs/credits",
       "sourceTitle": "ParseRail — Credits & pricing",
-      "asOf": "2026-09-30",
+      "asOf": "2026-10-09",
       "appearsOn": ["README.md", "skills/parserail-api/SKILL.md", "skills/extract-financial-doc/SKILL.md", "skills/redact-pii/SKILL.md"],
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-09",
       "status": "verified"
     },
     {
@@ -31,9 +31,9 @@
       "kind": "policy",
       "sourceUrl": "https://parserail.thecompound.tech/docs/credits",
       "sourceTitle": "ParseRail — Credits & pricing",
-      "asOf": "2026-09-30",
+      "asOf": "2026-10-09",
       "appearsOn": ["skills/parserail-api/SKILL.md"],
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-09",
       "status": "verified"
     },
     {
@@ -43,9 +43,9 @@
       "kind": "availability",
       "sourceUrl": "https://parserail.thecompound.tech/status",
       "sourceTitle": "ParseRail — Status",
-      "asOf": "2026-09-30",
+      "asOf": "2026-10-09",
       "appearsOn": ["skills/parserail-api/SKILL.md"],
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-09",
       "status": "verified"
     }
   ]
